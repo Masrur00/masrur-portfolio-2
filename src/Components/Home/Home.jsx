@@ -83,7 +83,7 @@ const Home = ({ scrollRef }) => {
 					<h1>{intro}</h1>
 					<div className={styles.btn}>
 						<a
-							href="/ShaikShakeer_Resume.pdf"
+							href="/MasrurAlam.pdf"
 							target='_blank'
 							rel='noreferrer'
 						>
@@ -109,7 +109,7 @@ const Home = ({ scrollRef }) => {
 					}}
 					className={styles.profileImage}
 				>
-					<img src='/avatar.jpg' alt='Profile pic' />
+					<img src='/avatar.png' alt='Profile pic' />
 				</div>
 			</div>
 

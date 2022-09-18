@@ -7,7 +7,7 @@
 
 ## To run this project in the local machine run the following commands:
 ```
-git clone https://github.com/shakeer7396/shakeer-portfolio.git
+git clone https://github.com/Masrur00/masrur-portfolio.git
 ```
 ```
 cd me_Shakeer

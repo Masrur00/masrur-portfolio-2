@@ -56,7 +56,7 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar}>
-				<a href='https://shaik-shakeer-portfolio.vercel.app/'>
+				<a href=''>
 					<div className={styles.logo}>
 						<img src='/logo.png' alt='Logo' />
 					</div>
@@ -70,13 +70,13 @@ const Navbar = () => {
 					<a href='#about'>About</a>
 					
 					<a href='#projects'>Projects</a>
-					<a
+					{/* <a
             href="https://medium.com/@shakeer043/e-commerce-product-selling-website-clone-eb4a3451d06b"
             rel="noreferrer"
             target="_blank"
           >
             Blog
-          </a>
+          </a> */}
 					<a href='#contact'>Contact</a>
 				</div>
 				<button
