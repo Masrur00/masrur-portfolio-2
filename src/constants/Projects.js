@@ -18,7 +18,7 @@ export const projects = [
 		technologies: ['HTML', 'CSS', 'javaScript','Api'],
 	},
 	{
-		img: "/ProjectImages/flatheads.png",
+		img: "/ProjectImages/flatheads.PNG",
 		title: 'Flat-Heads Clone',
 		des: "A web application to buy any type of slipper products.",
 		demo: '',
