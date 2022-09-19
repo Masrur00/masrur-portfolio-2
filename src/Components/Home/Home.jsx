@@ -83,7 +83,7 @@ const Home = ({ scrollRef }) => {
 					<h1>{intro}</h1>
 					<div className={styles.btn}>
 						<a
-							href="/MasrurAlam.pdf"
+							href="/Masrur_Resume.pdf"
 							target='_blank'
 							rel='noreferrer'
 						>
