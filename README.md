@@ -1,16 +1,16 @@
 # Portfolio
 
-### This is personal Portfolio website. Visit [Portfolio](https://shaik-shakeer-portfolio.vercel.app/)
+### This is personal Portfolio website. Visit [Portfolio](https://masrur-portfolio-2.vercel.app/)
 
 ## Build with using
 ### `React `
 
 ## To run this project in the local machine run the following commands:
 ```
-git clone https://github.com/Masrur00/masrur-portfolio.git
+git clone https://github.com/Masrur00/masrur-portfolio-2.git
 ```
 ```
-cd me_Shakeer
+cd masrur-portfolio-2
 ```
 ```
 npm install
