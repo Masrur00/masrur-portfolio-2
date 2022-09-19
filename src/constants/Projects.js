@@ -1,6 +1,6 @@
 export const projects = [
 	{
-		img: "/ProjectImages/dermstore.png",
+		img: "/dermstore.png",
 		title: "Dermstore",
 		des:  "A web application for buying & selling of Skin & Hair oil products.",
 		demo: '',
@@ -9,7 +9,7 @@ export const projects = [
 		technologies: ['React', 'Redux', 'HTML', 'CSS', 'javaScript'],
 	},
 	{
-		img: "/ProjectImages/meesho2.png",
+		img: "/meesho2.png",
 		title: "Meesho Clone",
 		des:  "A web application for buying & selling of Clothes.",
 		demo: '',
@@ -18,7 +18,7 @@ export const projects = [
 		technologies: ['HTML', 'CSS', 'javaScript','Api'],
 	},
 	{
-		img: "/ProjectImages/flatheads.PNG",
+		img: "/flatheads.png",
 		title: 'Flat-Heads Clone',
 		des: "A web application to buy any type of slipper products.",
 		demo: '',
