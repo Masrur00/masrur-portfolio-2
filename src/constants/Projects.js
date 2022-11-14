@@ -26,14 +26,14 @@ export const projects = [
 		gitHub: "https://github.com/Duwesh/Flatheads-Clone",
 		technologies: ['HTML', 'CSS', 'javaScript'],
 	},
-	// {
-	// 	img: '/ProjectImages/pham easy.jpg',
-	// 	title: 'Phameasy Clone',
-	// 	des: "An end to end clone of pharmeasy.com medicine and fitness products best-selling app",
-	// 	demo: '',
-	// 	live: 'https://pharmeasy-clone-website.netlify.app',
-	// 	gitHub: "https://github.com/ahmadparvej/pharmeasy-clone",
-	// 	technologies: ['React', 'Redux', 'HTML', 'CSS', 'javaScript'],
-	// },
+	{
+		img: '/signup.JPG',
+		title: 'User Signup and Login',
+		des: 'User Signup, Login, Forgot Password and Profile pages with backend in Nodejs',
+		demo: '',
+		live: 'https://subtle-creponne-3f1ac9.netlify.app/',
+		gitHub: 'https://github.com/Masrur00/user_credential',
+		technologies: ['Nodejs','React', 'Redux', 'HTML', 'CSS', 'javaScript'],
+	},
 	
 ];
