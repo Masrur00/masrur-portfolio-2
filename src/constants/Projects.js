@@ -1,5 +1,14 @@
 export const projects = [
 	{
+		img: '/signup.JPG',
+		title: 'User Signup and Login',
+		des: 'User Signup, Login, Forgot Password and Profile pages with backend in Nodejs',
+		demo: '',
+		live: 'https://subtle-creponne-3f1ac9.netlify.app/',
+		gitHub: 'https://github.com/Masrur00/user_credential',
+		technologies: ['Nodejs', 'React', 'Redux', 'HTML', 'CSS', 'javaScript'],
+	},
+	{
 		img: "/dermstore.PNG",
 		title: "Dermstore",
 		des:  "A web application for buying & selling of Skin & Hair oil products.",
@@ -26,14 +35,6 @@ export const projects = [
 		gitHub: "https://github.com/Duwesh/Flatheads-Clone",
 		technologies: ['HTML', 'CSS', 'javaScript'],
 	},
-	{
-		img: '/signup.JPG',
-		title: 'User Signup and Login',
-		des: 'User Signup, Login, Forgot Password and Profile pages with backend in Nodejs',
-		demo: '',
-		live: 'https://subtle-creponne-3f1ac9.netlify.app/',
-		gitHub: 'https://github.com/Masrur00/user_credential',
-		technologies: ['Nodejs','React', 'Redux', 'HTML', 'CSS', 'javaScript'],
-	},
+	
 	
 ];
